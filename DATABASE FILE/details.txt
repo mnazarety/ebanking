@@ -1,0 +1,23 @@
+﻿Amin:
+	kaka
+	kaka@gmail.com
+	Dzuha 0365.
+
+	Admin
+	admin@gmail.com
+	Admin(pass)
+staff:
+
+
+Client:
+	client
+	client@gmail.com
+ 	Client(pass)
+	
+	Lenard Omusula
+	lenardomusula@gmail.com
+	Client
+
+	clientone@gmail.com
+	Client
+	
